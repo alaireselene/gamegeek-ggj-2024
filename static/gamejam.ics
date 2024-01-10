@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Jakarta
+LAST-MODIFIED:20230407T050750Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Asia/Jakarta
+X-LIC-LOCATION:Asia/Jakarta
+BEGIN:STANDARD
+TZNAME:WIB
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20240110T125623Z
+UID:1704891352016-35932@ical.marudot.com
+DTSTART;VALUE=DATE:20240126
+DTEND;VALUE=DATE:20240129
+SUMMARY:Gamegeek Global GameJam
+DESCRIPTION:- Hình thức tham gia: Online + Offline.\n- Phí đăng ký tham gia: 50.000đ/người áp dụng cho các bạn tham gia làm game offline.\n- Group Discord: https://discord.gg/g3HRdfgGAj\n- Facebook Group: https://www.facebook.com/groups/1579337842153530
+LOCATION:2QGM+PPV\, Ng. 7 Tôn Thất Thuyết\, Dịch Vọng Hậu\, Cầu Giấy\, Hà Nội\, Việt Nam
+END:VEVENT
+END:VCALENDAR

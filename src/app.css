@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#gamegeek-logo {
+	height: 80%;
+	object-fit: contain;
+}
+
+.footer img {
+	height: 70%;
+	object-fit: contain;
+}
