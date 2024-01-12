@@ -11,3 +11,43 @@
 	height: 70%;
 	object-fit: contain;
 }
+
+.hero-image {
+	width: 40rem;
+}
+
+.gradient-fill-text {
+	background: linear-gradient(
+		90deg,
+		rgba(227, 220, 39, 1) 0%,
+		rgba(253, 109, 29, 1) 52%,
+		rgba(252, 176, 69, 1) 100%
+	);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.stop-color-1 {
+	stop-color: #e3dc27;
+}
+.stop-color-2 {
+	stop-color: #fd6d1d;
+}
+.stop-color-3 {
+	stop-color: #fcb045;
+}
+.fill-gradient-linear path {
+	fill: url(#linear);
+}
+.fill-white {
+	color: #fff;
+}
+.svg-settings {
+	/* Hiding this content since it's just settings. See - https://snook.ca/archives/html_and_css/hiding-content-for-accessibility */
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+	clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+	clip: rect(1px, 1px, 1px, 1px);
+}
