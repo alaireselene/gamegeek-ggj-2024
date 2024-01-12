@@ -76,6 +76,12 @@
 							bind:value={phone}
 						/>
 					</label>
+					<p>
+						<i
+							>Lưu ý: Toàn bộ thông tin bạn cung cấp chỉ để hiển thị thông tin thanh toán tương ứng
+							ở bước kế tiếp và sẽ không lưu lại máy chủ dưới bất kỳ hình thức nào.</i
+						>
+					</p>
 				</div>
 			{:else}
 				<div class="step-info">
