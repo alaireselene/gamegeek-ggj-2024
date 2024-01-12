@@ -11,7 +11,10 @@
 		faChessBoard,
 		faCube,
 		faChevronDown,
-		faRightToBracket
+		faRightToBracket,
+		faPeopleArrows,
+		faGears,
+		faHandHoldingHeart
 	} from '@fortawesome/free-solid-svg-icons';
 	import { config, icon } from '@fortawesome/fontawesome-svg-core';
 	import '@fortawesome/fontawesome-svg-core/styles.css'; // Import the CSS
@@ -248,7 +251,7 @@
 		<div class="card w-96 hover:bg-orange-400 shadow-xl">
 			<div class="card-body">
 				<FontAwesomeIcon
-					icon={faGraduationCap}
+					icon={faPeopleArrows}
 					class="text-3xl fill-gradient-linear hover:fill-white"
 				/>
 				<h2 class="text-center font-bold text-white text-xl">KẾT NỐI</h2>
@@ -260,27 +263,23 @@
 		</div>
 		<div class="card w-96 hover:bg-orange-400 shadow-xl">
 			<div class="card-body">
-				<FontAwesomeIcon
-					icon={faGraduationCap}
-					class="text-3xl fill-gradient-linear hover:fill-white"
-				/>
-				<h2 class="text-center font-bold text-white text-xl">KẾT NỐI</h2>
+				<FontAwesomeIcon icon={faGears} class="text-3xl fill-gradient-linear hover:fill-white" />
+				<h2 class="text-center font-bold text-white text-xl">THỬ SỨC</h2>
 				<p class="text-center text-white">
-					Gặp gỡ và kết nối với những người cùng chung sở thích, mở rộng kiến thức và kỹ năng về
-					game.
+					Thử sức với việc lập trình và thiết kế Game, nâng cao kỹ nẵng chuyên môn
 				</p>
 			</div>
 		</div>
 		<div class="card w-96 hover:bg-orange-400 shadow-xl">
 			<div class="card-body">
 				<FontAwesomeIcon
-					icon={faGraduationCap}
+					icon={faHandHoldingHeart}
 					class="text-3xl fill-gradient-linear hover:fill-white"
 				/>
-				<h2 class="text-center font-bold text-white text-xl">KẾT NỐI</h2>
+				<h2 class="text-center font-bold text-white text-xl">QUÀ TẶNG</h2>
 				<p class="text-center text-white">
-					Gặp gỡ và kết nối với những người cùng chung sở thích, mở rộng kiến thức và kỹ năng về
-					game.
+					Nhận quà tặng hấp dẫn và hỗ trợ để thương mại hóa sản phẩm game, giúp bạn tiếp cận người
+					chơi trên toàn cầu.
 				</p>
 			</div>
 		</div>
