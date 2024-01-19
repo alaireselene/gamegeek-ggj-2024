@@ -169,6 +169,8 @@
 							<p><strong>Hình thức:</strong> Hybrid (Online + Offline)</p>
 							<p>
 								<strong>Địa điểm:</strong> 
+</p>
+<p>
                                                                <strong>Tại Hà Nội:</strong>  Toà nhà NIC Hà Nội - Số 6 ngõ 7 Tôn Thất Thuyết, Dịch Vọng Hậu, Cầu Giấy, Hà Nội
                                                         </p>
                                                         <p>
