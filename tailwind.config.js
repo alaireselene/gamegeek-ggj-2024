@@ -4,5 +4,6 @@ export default {
 	theme: {
 		extend: {}
 	},
-	plugins: [require('daisyui'), require('tailwindcss-animated')]
+	plugins: [require('daisyui'), require('tailwindcss-animated')],
+	darkMode: 'class'
 };
