@@ -168,9 +168,15 @@
 							<p><strong>Thời gian:</strong> 26/01/2024 - 28/01/2024</p>
 							<p><strong>Hình thức:</strong> Hybrid (Online + Offline)</p>
 							<p>
-								<strong>Địa điểm:</strong> Toà nhà NIC Hà Nội - Số 6 ngõ 7 Tôn Thất Thuyết, Dịch Vọng
-								Hậu, Cầu Giấy, Hà Nội
+								<strong>Địa điểm:</strong> 
+                                                        </p>
+                                                        <p>
+                                                               <strong>Tại Hà Nội:</strong>  Toà nhà NIC Hà Nội - Số 6 ngõ 7 Tôn Thất Thuyết, Dịch Vọng Hậu, Cầu Giấy, Hà Nội
+                                                        </p>
+                                                        <p>
+                                                               <strong>Tại TP HCM:</strong>  Board Game Era, 13 đường số 7, Cư xá Đô Thành, Phường 4, Quận 3, TP HCM
 							</p>
+                                                       
 						</div>
 					</div>
 					<br />
