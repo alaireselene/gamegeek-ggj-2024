@@ -116,7 +116,7 @@
 </div>
 
 <div
-	class="relative isolate overflow-hidden bg-base-200 px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0"
+	class="relative isolate overflow-hidden dark:bg-base-200 px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0"
 >
 	<div class="absolute inset-0 -z-10 overflow-hidden">
 		<svg
@@ -168,15 +168,18 @@
 							<p><strong>Thời gian:</strong> 26/01/2024 - 28/01/2024</p>
 							<p><strong>Hình thức:</strong> Hybrid (Online + Offline)</p>
 							<p>
-								<strong>Địa điểm:</strong> 
-                                                        </p>
-                                                        <p>
-                                                               <strong>Tại Hà Nội:</strong>  Toà nhà NIC Hà Nội - Số 6 ngõ 7 Tôn Thất Thuyết, Dịch Vọng Hậu, Cầu Giấy, Hà Nội
-                                                        </p>
-                                                        <p>
-                                                               <strong>Tại TP HCM:</strong>  Board Game Era, 13 đường số 7, Cư xá Đô Thành, Phường 4, Quận 3, TP HCM
+								<strong>Địa điểm:</strong>
 							</p>
-                                                       
+							<ul>
+								<li class="p-4">
+									<strong>- Tại Hà Nội:</strong> Toà nhà NIC Hà Nội - Số 6 ngõ 7 Tôn Thất Thuyết, Dịch
+									Vọng Hậu, Cầu Giấy, Hà Nội
+								</li>
+								<li class="p-4">
+									<strong>- Tại TP HCM:</strong> Board Game Era, 13 đường số 7, Cư xá Đô Thành, Phường
+									4, Quận 3, TP HCM
+								</li>
+							</ul>
 						</div>
 					</div>
 					<br />
@@ -242,14 +245,14 @@
 			class="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden"
 		>
 			<img
-				class="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
+				class="w-[48rem] max-w-none rounded-xl dark:bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
 				src="/event.jpg"
 				alt=""
 			/>
 		</div>
 	</div>
 </div>
-<div class="px-8 py-8 bg-base-200">
+<div class="px-8 py-8 dark:bg-base-200">
 	<h1 class="text-3xl font-bold text-center gradient-fill-text">
 		Tại sao không nên bở lỡ<br /> Global Game Jam 2024
 	</h1>
@@ -291,7 +294,7 @@
 		</div>
 	</div>
 </div>
-<div class="flex flex-col md:flex-row-reverse justify-between px-28 bg-base-200">
+<div class="flex flex-col md:flex-row-reverse justify-between px-28 dark:bg-base-200">
 	<div
 		class="w-full md:max-w-xl grid place-items-center bg-brand-gradient-section rounded-2xl md:rounded-3xl"
 	>
@@ -332,10 +335,10 @@
 		</ul>
 	</div>
 </div>
-<div class="px-20 py-8 bg-base-200 max-h-30">
+<div class="px-20 py-8 dark:bg-base-200 max-h-30">
 	<h1 class="text-4xl font-bold text-center pb-4 gradient-fill-text">Cơ cấu giải thưởng</h1>
 	<div class="flex flex-wrap gap-4 items-stretch place-items-center justify-center">
-		<div class="card md:w-96 w-52 bg-base-100 shadow-xl image-full">
+		<div class="card md:w-96 w-52 dark:bg-base-100 shadow-xl image-full">
 			<figure>
 				<img class="w-full" src="/digital-game.jfif" alt="" />
 			</figure>
@@ -348,7 +351,7 @@
 				</ul>
 			</div>
 		</div>
-		<div class="card md:w-96 w-52 bg-base-100 shadow-xl image-full">
+		<div class="card md:w-96 w-52 dark:bg-base-100 shadow-xl image-full">
 			<figure>
 				<img class="w-full" src="/board-game.jfif" alt="" />
 			</figure>
@@ -361,7 +364,7 @@
 				</ul>
 			</div>
 		</div>
-		<div class="card md:w-96 w-52 bg-base-100 shadow-xl image-full">
+		<div class="card md:w-96 w-52 dark:bg-base-100 shadow-xl image-full">
 			<figure>
 				<img class="w-full" src="/voting.jfif" alt="" />
 			</figure>
