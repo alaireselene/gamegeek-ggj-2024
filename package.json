@@ -34,5 +34,9 @@
 		"@fortawesome/free-solid-svg-icons": "^6.5.1",
 		"@fortawesome/svelte-fontawesome": "^0.2.1",
 		"tailwindcss-animated": "^1.0.1"
+	},
+	"volta": {
+		"node": "18.20.5",
+		"yarn": "1.22.22"
 	}
 }
