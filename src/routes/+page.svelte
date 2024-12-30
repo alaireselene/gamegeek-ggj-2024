@@ -26,7 +26,7 @@
 	let seconds = 0;
 
 	function updateCountdown() {
-		const targetTime = new Date('January 26, 2024 00:00:00').getTime();
+		const targetTime = new Date('January 17, 2025 20:00:00').getTime();
 		const currentTime = new Date();
 		const totalSeconds = (targetTime - currentTime) / 1000;
 
@@ -57,7 +57,7 @@
 		<img class="hero-image" src="/image.png" alt="Hero text" />
 		<div class="space-y-2">
 			<h1 class="text-3xl font-bold">Global GameJam</h1>
-			<h2 class="text-7xl font-bold gradient-fill-text hover:animate-fade">Vietnam 2024</h2>
+			<h2 class="text-7xl font-bold gradient-fill-text hover:animate-fade">Vietnam 2025</h2>
 			<p>
 				Global Game Jam là một cuộc thi thường niên cho các nhà phát triển Game trên toàn thế giới
 				có thể thỏa sức sáng tạo. Với thời gian giới hạn, các Jammers sẽ phải tạo nên một trò chơi
@@ -165,7 +165,7 @@
 					<br />
 					<div class="lg:pr-4">
 						<div class="max-w-xl text-base leading-7 text-white lg:max-w-lg">
-							<p><strong>Thời gian:</strong> 26/01/2024 - 28/01/2024</p>
+							<p><strong>Thời gian:</strong> 17/01/2025 - 19/01/2025</p>
 							<p><strong>Hình thức:</strong> Hybrid (Online + Offline)</p>
 							<p>
 								<strong>Địa điểm:</strong>
@@ -196,7 +196,7 @@
 								<FontAwesomeIcon icon={faCube} />
 							</div>
 							<div class="timeline-start md:text-end mb-10">
-								<time class="font-mono">19:30, 26/01/2024</time>
+								<time class="font-mono">19:30, 17/01/2025</time>
 								<div class="text-lg font-black text-orange-300">Khai mạc</div>
 							</div>
 							<hr class="bg-orange-400" />
@@ -209,9 +209,9 @@
 								</div>
 							</div>
 							<div class="timeline-end mb-10">
-								<time class="font-mono">20:00, 26/01/2024</time>
+								<time class="font-mono">20:00, 17/01/2025</time>
 								<div class="text-lg font-black text-orange-300">GameJam</div>
-								Giới hạn thời gian<strong>36 tiếng</strong> cho các Jammers thỏa sức sáng tạo.
+								Giới hạn thời gian <strong>36 tiếng</strong> cho các Jammers thỏa sức sáng tạo.
 							</div>
 							<hr class="bg-orange-400" />
 						</li>
@@ -221,7 +221,7 @@
 								<FontAwesomeIcon icon={faCube} />
 							</div>
 							<div class="timeline-start md:text-end mb-10">
-								<time class="font-mono">08:00, 28/01/2024</time>
+								<time class="font-mono">08:00, 19/01/2025</time>
 								<div class="text-lg font-black text-orange-300">Pitching</div>
 							</div>
 							<hr class="bg-orange-400" />
@@ -232,7 +232,7 @@
 								<FontAwesomeIcon icon={faCube} />
 							</div>
 							<div class="timeline-end md:text-end mb-10">
-								<time class="font-mono">10:30, 28/01/2024</time>
+								<time class="font-mono">10:30, 19/01/2025</time>
 								<div class="text-lg font-black text-orange-300">Bế mạc</div>
 							</div>
 						</li>
@@ -254,7 +254,7 @@
 </div>
 <div class="px-8 py-8 dark:bg-base-200">
 	<h1 class="text-3xl font-bold text-center gradient-fill-text">
-		Tại sao không nên bở lỡ<br /> Global Game Jam 2024
+		Tại sao không nên bở lỡ<br /> Global Game Jam 2025
 	</h1>
 	<div class="flex flex-col md:flex-row justify-center items-center gap-1 md:gap-10">
 		<div class="card w-96 hover:bg-orange-400 shadow-xl">

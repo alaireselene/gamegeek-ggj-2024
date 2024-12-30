@@ -40,7 +40,7 @@
 	}
 
 	function linkGen() {
-		content = 'Gamejam2024 ' + removeAccents(name) + ' ' + phone;
+		content = 'Gamejam2025 ' + removeAccents(name) + ' ' + phone;
 		link =
 			'https://img.vietqr.io/image/BIDV-1261407442-qr_only.png?amount=50000&addInfo=' +
 			escape(content);

@@ -10,7 +10,7 @@
 	<div class="navbar-start">
 		<a class="btn btn-ghost text-xl" href="/">
 			<img src="/gamegeek.png" alt="Gamegeek logo" id="gamegeek-logo" />
-			Global GameJam 2024
+			Global GameJam 2025
 		</a>
 	</div>
 	<div class="navbar-center hidden lg:flex">
