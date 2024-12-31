@@ -54,7 +54,7 @@
 
 <div class="hero min-h-screen bg-base-200">
 	<div class="hero-content flex-col lg:flex-row-reverse">
-		<img class="hero-image" src="/image.png" alt="Hero text" />
+		<img class="hero-image" src="/image-01.png" alt="Hero text" />
 		<div class="space-y-2">
 			<h1 class="text-3xl font-bold">Global GameJam</h1>
 			<h2 class="text-7xl font-bold gradient-fill-text hover:animate-fade">Vietnam 2025</h2>
@@ -246,7 +246,7 @@
 		>
 			<img
 				class="w-[48rem] max-w-none rounded-xl dark:bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
-				src="/event.jpg"
+				src="/image-02.png"
 				alt=""
 			/>
 		</div>
