@@ -95,7 +95,7 @@
 			<div class="flex gap-5">
 				<button class="btn btn-outline btn-warning"
 					><a
-						href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20240125%2F20240128&details=-%20H%C3%ACnh%20th%E1%BB%A9c%20l%C3%A0m%20tham%20gia%3A%20Online%20%2B%20Offline%0A-%20Ph%C3%AD%20%C4%91%C4%83ng%20k%C3%BD%20tham%20gia%3A%2050.000%C4%91%2Fng%C6%B0%E1%BB%9Di%20%C3%A1p%20d%E1%BB%A5ng%20cho%20c%C3%A1c%20b%E1%BA%A1n%20tham%20gia%20l%C3%A0m%20game%20offline%0ADiscord%20Group%3A%20https%3A%2F%2Fdiscord.gg%2Fg3HRdfgGAj%0AFacebook%20Group%3A%20https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1579337842153530&location=2QGM%2BPPV%2C%20Ng.%207%20T%C3%B4n%20Th%E1%BA%A5t%20Thuy%E1%BA%BFt%2C%20D%E1%BB%8Bch%20V%E1%BB%8Dng%20H%E1%BA%ADu%2C%20C%E1%BA%A7u%20Gi%E1%BA%A5y%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam&text=Gamegeek%20Global%20GameJam"
+						href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20250117%2F20250120&details=-%20H%C3%ACnh%20th%E1%BB%A9c%20l%C3%A0m%20tham%20gia%3A%20Online%20%2B%20Offline%0A-%20Ph%C3%AD%20%C4%91%C4%83ng%20k%C3%BD%20tham%20gia%3A%2050.000%C4%91%2Fng%C6%B0%E1%BB%9Di%20%C3%A1p%20d%E1%BB%A5ng%20cho%20c%C3%A1c%20b%E1%BA%A1n%20tham%20gia%20l%C3%A0m%20game%20offline%0ADiscord%20Group%3A%20https%3A%2F%2Fdiscord.gg%2Fg3HRdfgGAj%0AFacebook%20Group%3A%20https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1579337842153530&location=2QGM%2BPPV%2C%20Ng.%207%20T%C3%B4n%20Th%E1%BA%A5t%20Thuy%E1%BA%BFt%2C%20D%E1%BB%8Bch%20V%E1%BB%8Dng%20H%E1%BA%ADu%2C%20C%E1%BA%A7u%20Gi%E1%BA%A5y%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam&text=Gamegeek%20Global%20GameJam"
 						><FontAwesomeIcon icon={faGoogle} /> Thêm vào Google Calendar</a
 					></button
 				>
