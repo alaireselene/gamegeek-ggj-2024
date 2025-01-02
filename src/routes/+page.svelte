@@ -172,12 +172,12 @@
 							</p>
 							<ul>
 								<li class="p-4">
-									<strong>- Tại Hà Nội:</strong> Toà nhà NIC Hà Nội - Số 6 ngõ 7 Tôn Thất Thuyết, Dịch
-									Vọng Hậu, Cầu Giấy, Hà Nội
+									<strong>- Tại Hà Nội:</strong> Học viện Công nghệ Bưu Chính Viễn Thông (PTIT), 
+									Km10, đường Nguyễn Trãi, quận Hà Đông, TP Hà Nội
 								</li>
 								<li class="p-4">
-									<strong>- Tại TP HCM:</strong> Board Game Era, 13 đường số 7, Cư xá Đô Thành, Phường
-									4, Quận 3, TP HCM
+									<strong>- Tại TP HCM:</strong> Học viện Công nghệ Bưu Chính Viễn Thông (PTIT),
+									số 11, Nguyễn Đình Chiểu, P. Đa Kao, Quận 1, TP Hồ Chí Minh
 								</li>
 							</ul>
 						</div>
