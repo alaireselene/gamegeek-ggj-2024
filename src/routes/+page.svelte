@@ -347,7 +347,7 @@
 				<ul>
 					<li>1 Giải nhất: 5.000.000đ</li>
 					<li>1 Giải nhì: 3.000.000đ</li>
-					<li>2 Giải ba: 1.500.000đ</li>
+					<li>2 Giải ba: 1.000.000đ</li>
 				</ul>
 			</div>
 		</div>
@@ -360,18 +360,7 @@
 				<ul>
 					<li>1 Giải nhất: 5.000.000đ</li>
 					<li>1 Giải nhì: 3.000.000đ</li>
-					<li>2 Giải ba: 1.500.000đ</li>
-				</ul>
-			</div>
-		</div>
-		<div class="card md:w-96 w-52 dark:bg-base-100 shadow-xl image-full">
-			<figure>
-				<img class="w-full" src="/voting.jfif" alt="" />
-			</figure>
-			<div class="card-body self-center">
-				<h2 class="card-title font-semibold text-orange-200">Giải bình chọn</h2>
-				<ul>
-					<li>1.500.000đ</li>
+					<li>2 Giải ba: 1.000.000đ</li>
 				</ul>
 			</div>
 		</div>

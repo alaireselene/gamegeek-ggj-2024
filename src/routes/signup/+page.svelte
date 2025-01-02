@@ -120,7 +120,7 @@
 				{/if}
 				{#if curstep === 2}
 					<button class="btn btn-sm btn-success"
-						><a href="https://forms.gle/BKAXonRcxGN8QzyX8"
+						><a href="https://forms.gle/eo7XExvvJMcbC2NP7"
 							>Hoàn tất bước cuối <FontAwesomeIcon icon={faCircleCheck} /></a
 						>
 					</button>
