@@ -347,7 +347,7 @@
 				<ul>
 					<li>1 Giải nhất: 5.000.000đ</li>
 					<li>1 Giải nhì: 3.000.000đ</li>
-					<li>2 Giải ba: 1.000.000đ</li>
+					<li>2 Giải ba: 2.000.000đ</li>
 				</ul>
 			</div>
 		</div>
@@ -360,7 +360,7 @@
 				<ul>
 					<li>1 Giải nhất: 5.000.000đ</li>
 					<li>1 Giải nhì: 3.000.000đ</li>
-					<li>2 Giải ba: 1.000.000đ</li>
+					<li>2 Giải ba: 2.000.000đ</li>
 				</ul>
 			</div>
 		</div>
